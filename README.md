@@ -1,2 +1,2 @@
 # online-shopping
-e-commerce project
+demo
